@@ -57,7 +57,7 @@ function App() {
         Merak Edilenler
       </div>
       <div className="flex mx-auto container px-4 sm:px-6 lg:px-44 flex-col md:flex-row">
-        <Card className="mt-6 w-full md:w-96">
+        <Card className="mt-6 w-full md:w-96 md:mx-2">
           <CardHeader color="blue-gray" className="relative h-56">
             <img src="/cropped-adalet.png" alt="card-image" />
           </CardHeader>
@@ -74,7 +74,7 @@ function App() {
             </Typography>
           </CardBody>
         </Card>
-        <Card className="mt-6 w-full md:w-96">
+        <Card className="mt-6 w-full md:w-96 md:mx-2">
           <CardHeader color="blue-gray" className="relative h-56">
             <img src="/cropped-what-is-time-kapak.jpg" alt="card-image" />
           </CardHeader>
@@ -95,7 +95,7 @@ function App() {
             </Typography>
           </CardBody>
         </Card>
-        <Card className="mt-6 w-full md:w-96">
+        <Card className="mt-6 w-full md:w-96 md:mx-2">
           <CardHeader color="blue-gray" className="relative h-56">
             <img
               src="/cropped-liderlik-mitleri4-1-1583745348.jpg"
