@@ -29,9 +29,9 @@ function App() {
           </div>
           <p className="text-xl text-zinc-500 mb-5 text-left">
             <span className="bg-[#ffe6eb] px-1 text-black">
-              Kampanya süresi, koşul, şart olmadan,
+              120 gün içerisinde işlem yapılan
             </span>{" "}
-            istediğin tarih aralığındaki harcamalarını Chargeback ile{" "}
+            tüm harcamalarını Chargeback ile{" "}
             <span className="bg-[#fffdd4] px-1 text-black">
               anında iade kazan.
             </span>
