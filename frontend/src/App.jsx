@@ -59,7 +59,7 @@ function App() {
       <div className="flex mx-auto container px-4 sm:px-6 lg:px-44 flex-col md:flex-row">
         <Card className="mt-6 w-full md:w-96 md:mx-2">
           <CardHeader color="blue-gray" className="relative h-56">
-            <img src="/cropped-adalet.png" alt="card-image" />
+            <img src="/chargeback-mobile-2.png" alt="card-image" />
           </CardHeader>
           <CardBody>
             <Typography variant="h5" color="blue-gray" className="mb-2">
@@ -76,7 +76,7 @@ function App() {
         </Card>
         <Card className="mt-6 w-full md:w-96 md:mx-2">
           <CardHeader color="blue-gray" className="relative h-56">
-            <img src="/cropped-what-is-time-kapak.jpg" alt="card-image" />
+            <img src="/chargeback-mobile.png" alt="card-image" />
           </CardHeader>
           <CardBody>
             <Typography variant="h5" color="blue-gray" className="mb-2">
@@ -98,7 +98,7 @@ function App() {
         <Card className="mt-6 w-full md:w-96 md:mx-2">
           <CardHeader color="blue-gray" className="relative h-56">
             <img
-              src="/cropped-liderlik-mitleri4-1-1583745348.jpg"
+              src="/desk-chargeback.jpg"
               alt="card-image"
             />
           </CardHeader>
