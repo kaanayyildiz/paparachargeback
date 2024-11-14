@@ -182,15 +182,15 @@ function App() {
           </Button>
         </a>
       </div>
-      <div className="container mx-auto mt-2 px-4 sm:px-6 lg:px-44 flex items-center gap-x-6 justify-between mb-12">
-        <div className="flex gap-x-6">
+      <div className="container mx-auto mt-2 px-4 sm:px-6 lg:px-44 flex flex-col md:flex-row items-center gap-x-6 justify-between mb-12">
+        <div className="flex gap-x-6 mb-4 md:mb-0">
           <img src={browser} alt="browser Logo" className="h-10" />
           <img src={appstore} alt="appstore Logo" className="h-10" />
           <img src={googleplay} alt="googleplay Logo" className="h-10" />
           <img src={huaweigallery} alt="huaweigallery Logo" className="h-10" />
         </div>
 
-        <div className="flex flex-col text-2xl font-semibold">
+        <div className="flex flex-col text-2xl font-semibold text-center md:text-left">
           <span>paparacashback@gmail.com</span>
           <span>0850 340 0 340</span>
         </div>
