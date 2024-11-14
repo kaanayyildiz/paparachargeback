@@ -104,16 +104,15 @@ function App() {
           </CardHeader>
           <CardBody>
             <Typography variant="h5" color="blue-gray" className="mb-2">
-              Sürekli Chargeback Yapıp Zengin Olurum?
+              Chargeback İşlemi İçin Gereken Belgeler Nelerdir?
             </Typography>
             <Typography className="text-zinc-500">
-              Arkadaşlar tek olarak kesinlikle 1 defadan fazla chargeback
-              yapamazsınız. Banka ikinci defa yaptığınız toplu iade sonucu sizin
-              hesaplarınızı kapatıp ilişiği kesecektir. Bu işi profesyonelce
-              yapan müşterilerim mevcut. Farkı kişiler farklı hesaplar ile
-              yatırım yapıp iade alabilirsiniz. Çünkü belirli süre sonra hem
-              siteler sizi kısıtlayacak hemde 2. toplu iade sonucu banka ile
-              ilişiğiniz kesilecektir.
+              Chargeback başvurusunda bulunurken sürecin hızlı ve sorunsuz
+              ilerlemesi için belirli belgelerin hazır edilmesi gerekmektedir.
+              Bankalar, işlemi başlatmadan önce genellikle sizden işlemle ilgili
+              kanıtlayıcı belgeler talep eder. Örneğin; satın alım faturaları,
+              ödemenin gerçekleştiğine dair banka dekontları veya sözleşme gibi
+              belgeler, bankanın değerlendirmesine yardımcı olur.
             </Typography>
           </CardBody>
         </Card>
