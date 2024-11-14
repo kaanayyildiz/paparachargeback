@@ -67,7 +67,7 @@ const Header = () => {
                 Ana Sayfa
               </a>
               <a
-                href="/giris"
+                href="https://www.shopier.com/ShowProductNew/products.php?id=30725531"
                 className="w-full flex items-center justify-between block px-3 py-2 rounded-md text-balg text-white bg-black font-normal hover:text-primary hover:bg-accent"
               >
                 Hemen Satın Al
