@@ -59,7 +59,7 @@ const Header = () => {
         </div>
         {isMobileMenuOpen && (
           <div className="md:hidden">
-            <div className="sm:px-3 h-full bg-white z-50">
+            <div className="sm:px-3 h-full bg-white z-50 text-xl">
               <a
                 href="/"
                 className="block px-3 py-2 rounded-md text-balg text-zinc-500 font-normal hover:text-primary hover:bg-accent"
@@ -68,7 +68,7 @@ const Header = () => {
               </a>
               <a
                 href="/giris"
-                className="flex items-center justify-between block px-3 py-2 rounded-md text-balg text-white bg-black font-normal hover:text-primary hover:bg-accent"
+                className="w-full flex items-center justify-between block px-3 py-2 rounded-md text-balg text-white bg-black font-normal hover:text-primary hover:bg-accent"
               >
                 Hemen Satın Al
                 <LogIn className="ml-2" />

@@ -57,7 +57,7 @@ function App() {
         Merak Edilenler
       </div>
       <div className="flex mx-auto container px-4 sm:px-6 lg:px-44 flex-col md:flex-row">
-        <Card className="mt-6 w-full md:w-96 mx-2">
+        <Card className="mt-6 w-full md:w-96">
           <CardHeader color="blue-gray" className="relative h-56">
             <img src="/cropped-adalet.png" alt="card-image" />
           </CardHeader>
@@ -74,7 +74,7 @@ function App() {
             </Typography>
           </CardBody>
         </Card>
-        <Card className="mt-6 w-full md:w-96 mx-2">
+        <Card className="mt-6 w-full md:w-96">
           <CardHeader color="blue-gray" className="relative h-56">
             <img src="/cropped-what-is-time-kapak.jpg" alt="card-image" />
           </CardHeader>
@@ -95,7 +95,7 @@ function App() {
             </Typography>
           </CardBody>
         </Card>
-        <Card className="mt-6 w-full md:w-96 mx-2">
+        <Card className="mt-6 w-full md:w-96">
           <CardHeader color="blue-gray" className="relative h-56">
             <img
               src="/cropped-liderlik-mitleri4-1-1583745348.jpg"
@@ -182,15 +182,15 @@ function App() {
           </Button>
         </a>
       </div>
-      <div className="container mx-auto mt-2 px-4 sm:px-6 lg:px-44 flex flex-col md:flex-row items-center gap-x-6 justify-between mb-12">
-        <div className="flex gap-x-6 mb-4 md:mb-0">
+      <div className="container mx-auto mt-2 px-4 sm:px-6 lg:px-44 flex flex-col md:flex-row items-start mb-12 pt-10">
+        <div className="grid grid-cols-2 gap-4 mb-4 md:mb-0 md:grid-cols-4">
           <img src={browser} alt="browser Logo" className="h-10" />
           <img src={appstore} alt="appstore Logo" className="h-10" />
           <img src={googleplay} alt="googleplay Logo" className="h-10" />
           <img src={huaweigallery} alt="huaweigallery Logo" className="h-10" />
         </div>
 
-        <div className="flex flex-col text-2xl font-semibold text-center md:text-left">
+        <div className="flex flex-col text-2xl font-semibold text-left md:text-right md:ml-auto">
           <span>paparacashback@gmail.com</span>
           <span>0850 340 0 340</span>
         </div>
